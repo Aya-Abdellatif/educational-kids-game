@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FCI level 4\\Animation\\educational-kids-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|e:\\fci level 4\\animation\\educational-kids-game\\assets\\dontdestroymusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\dontdestroymusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DontDestroyMusic.cs",
+              "DocumentMoniker": "E:\\FCI level 4\\Animation\\educational-kids-game\\Assets\\DontDestroyMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\DontDestroyMusic.cs",
+              "ToolTip": "E:\\FCI level 4\\Animation\\educational-kids-game\\Assets\\DontDestroyMusic.cs",
+              "RelativeToolTip": "Assets\\DontDestroyMusic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:41:33.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
