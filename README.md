@@ -86,3 +86,8 @@ This project is an **educational game** designed to teach children basic English
 For any inquiries or feedback, please contact:
 - Email: ayaabdllatif112@gmail.com
 
+---
+
+### Thank you for using our game!🙌🏻
+
+---
