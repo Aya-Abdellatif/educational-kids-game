@@ -77,16 +77,9 @@ This project is an **educational game** designed to teach children basic English
 
 ---
 
-## Future Enhancements
-- Add more categories, such as colors and shapes.
-- Include multiplayer modes for collaborative learning.
-- Support for multiple languages.
-
----
-
 ## Contributors
-- [Aya] - Project Developer
-- [Enas] - Project Developer
+- [Aya Abdellatif] - Project Developer
+- [Enas Ikram] - Project Developer
 ---
 
 ## Contact
