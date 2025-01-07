@@ -5,7 +5,7 @@ This project is an **educational game** designed to teach children basic English
 
 ---
 
-## Demo Video
+## Demo
 
 ![Demo](demo.gif)
 
