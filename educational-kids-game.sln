@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4B5638BA-956C-11E2-604D-177FDDD90EAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "educational-kids-game", "Assembly-CSharp.csproj", "{4B5638BA-956C-11E2-604D-177FDDD90EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "educational-kids-game", "Assembly-CSharp-Editor.csproj", "{71919686-D1F7-E46F-B73D-F72755CA6F8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{4B5638BA-956C-11E2-604D-177FDDD90EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B5638BA-956C-11E2-604D-177FDDD90EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B5638BA-956C-11E2-604D-177FDDD90EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71919686-D1F7-E46F-B73D-F72755CA6F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71919686-D1F7-E46F-B73D-F72755CA6F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71919686-D1F7-E46F-B73D-F72755CA6F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71919686-D1F7-E46F-B73D-F72755CA6F8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

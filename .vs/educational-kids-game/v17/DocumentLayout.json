@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FCI level 4\\Animation\\educational-kids-game\\",
+  "WorkspaceRootPath": "D:\\Projects\\Animation\\educational-kids-game\\educational-kids-game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|e:\\fci level 4\\animation\\educational-kids-game\\assets\\dontdestroymusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\dontdestroymusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|d:\\projects\\animation\\educational-kids-game\\educational-kids-game\\assets\\scripts\\soundui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|d:\\projects\\animation\\educational-kids-game\\educational-kids-game\\assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|d:\\projects\\animation\\educational-kids-game\\educational-kids-game\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5638BA-956C-11E2-604D-177FDDD90EAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DontDestroyMusic.cs",
-              "DocumentMoniker": "E:\\FCI level 4\\Animation\\educational-kids-game\\Assets\\DontDestroyMusic.cs",
-              "RelativeDocumentMoniker": "Assets\\DontDestroyMusic.cs",
-              "ToolTip": "E:\\FCI level 4\\Animation\\educational-kids-game\\Assets\\DontDestroyMusic.cs",
-              "RelativeToolTip": "Assets\\DontDestroyMusic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Title": "SoundUI.cs",
+              "DocumentMoniker": "D:\\Projects\\Animation\\educational-kids-game\\educational-kids-game\\Assets\\Scripts\\SoundUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundUI.cs",
+              "ToolTip": "D:\\Projects\\Animation\\educational-kids-game\\educational-kids-game\\Assets\\Scripts\\SoundUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundUI.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAMwCIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T11:41:33.239Z",
+              "WhenOpened": "2025-01-07T18:52:22.395Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\Animation\\educational-kids-game\\educational-kids-game\\Assets\\Scripts\\GameSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSettings.cs",
+              "ToolTip": "D:\\Projects\\Animation\\educational-kids-game\\educational-kids-game\\Assets\\Scripts\\GameSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSettings.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:26:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Animation\\educational-kids-game\\educational-kids-game\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "D:\\Projects\\Animation\\educational-kids-game\\educational-kids-game\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:26:27.612Z",
+              "EditorCaption": ""
             }
           ]
         }
