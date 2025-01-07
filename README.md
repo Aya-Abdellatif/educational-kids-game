@@ -86,7 +86,7 @@ This project is an **educational game** designed to teach children basic English
 
 ## Contributors
 - [Aya] - Project Developer
-
+- [Enas] - Project Developer
 ---
 
 ## Contact
